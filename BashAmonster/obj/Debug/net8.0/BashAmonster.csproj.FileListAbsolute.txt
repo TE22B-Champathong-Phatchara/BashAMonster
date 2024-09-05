@@ -12,3 +12,4 @@ c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\De
 c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.pdb
 c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.genruntimeconfig.cache
 c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\ref\BashAmonster.dll
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.sourcelink.json

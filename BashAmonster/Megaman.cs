@@ -1,5 +1,15 @@
 public class Megaman
 {
     public string name;
-    public int Hitpoints;
+    public int atk;
+
+    public int hp;
+}
+
+public class Enemy
+{
+    public string name;
+    public int hp;
+
+    public int atk;
 }
