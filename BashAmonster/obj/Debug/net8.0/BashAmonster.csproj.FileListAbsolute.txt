@@ -1,0 +1,14 @@
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\bin\Debug\net8.0\BashAmonster.exe
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\bin\Debug\net8.0\BashAmonster.deps.json
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\bin\Debug\net8.0\BashAmonster.runtimeconfig.json
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\bin\Debug\net8.0\BashAmonster.dll
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\bin\Debug\net8.0\BashAmonster.pdb
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.AssemblyInfoInputs.cache
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.AssemblyInfo.cs
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.csproj.CoreCompileInputs.cache
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.dll
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\refint\BashAmonster.dll
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.pdb
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\BashAmonster.genruntimeconfig.cache
+c:\Users\phatchara.champatho\Documents\program2\BashAMonster\BashAmonster\obj\Debug\net8.0\ref\BashAmonster.dll
