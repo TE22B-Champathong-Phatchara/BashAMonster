@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj": {}
+    "C:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj": {}
   },
   "projects": {
-    "c:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj": {
+    "C:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj",
+        "projectUniqueName": "C:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj",
         "projectName": "BashAmonster",
-        "projectPath": "c:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj",
+        "projectPath": "C:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\BashAmonster.csproj",
         "packagesPath": "C:\\Users\\phatchara.champatho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\obj\\",
+        "outputPath": "C:\\Users\\phatchara.champatho\\Documents\\program2\\BashAMonster\\BashAmonster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
