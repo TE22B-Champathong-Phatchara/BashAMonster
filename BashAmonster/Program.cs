@@ -41,7 +41,7 @@ Console.ReadLine();
 Jack.hp -= Player.atk;
 
 
-while(Player.hp != 0 || Jack.hp != 0)
+while(Jack.hp != 0)
 {
     System.Console.WriteLine($"{Player.name} vs {Jack.name}"!);
     System.Console.WriteLine("___________________________________________\n");
@@ -54,6 +54,6 @@ while(Player.hp != 0 || Jack.hp != 0)
     Jack.hp-= Player.atk;
 
 }
-
+System.Console.WriteLine($"{Player.name} has won!");
 Console.ReadLine();
 
